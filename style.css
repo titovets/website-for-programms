@@ -1,0 +1,843 @@
+.header
+{
+	background-image: url(img/fonbox-1.jpg); 
+	background-size: 1920px;
+	background-repeat: no-repeat;
+}
+.it-1
+{
+	padding-top: 20px;
+	padding-bottom: 25px;
+	border-bottom: 1px solid #A1A1A1;
+}
+.m-n
+{
+	/*позиция   */
+	padding-right: 40px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+.m-n:hover
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+.o-t
+{
+	/*позиция   */
+	padding-right: 40px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+.o-t:hover
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+.s-s
+{
+	/*позиция   */
+	padding-right: 40px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+.s-s:hover
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+.n-s
+{
+	/*позиция   */
+	padding-right: 40px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+.n-s:hover
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+.c-s
+{
+	/*позиция   */
+
+	padding-right: 160px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+.c-s:hover
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+.se-1
+{
+	/*позиция   */
+	padding-top: 260px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	color: #FFFFFF;
+}
+.se-2
+{
+	/*позиция   */
+	padding-top: 20px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 48px;
+	line-height: 64px;
+	text-align: center;
+
+	color: #FFFFFF;
+}
+.ka-1
+{
+	/*стили кнопки*/
+	background-color: #4985FF;
+	color: #FFFFFF;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	border-radius: 50px;
+	box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+	width: 180px;
+	height: 40px;
+}
+.ka-op-1
+{
+	padding-top: 65px;
+	padding-left: 653px;
+	padding-bottom: 335px;	
+}
+/*----------------------------------------------------------*/
+.se-3
+{
+	/*позиция   */
+	padding-top: 60px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 53px;
+	text-align: center;
+	color: #323232;
+}
+.se-4
+{
+	/*позиция   */
+	padding-top: 10px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	text-align: center;
+	color: #999999;
+}
+.ce-1
+{
+	border: 2px solid #E0E0E0;
+	box-sizing: border-box;
+	border-radius: 90px;
+}
+.bc-1
+{
+	padding: 0px;
+	margin: 0px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 22px;
+	color: #000000;
+}
+.bc-2
+{
+	padding-top: 8px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 22px;
+	color: #999999;
+}
+.pic-1
+{
+	padding-top: 40px;
+	padding-left: 280px;
+}
+.pic-2
+{
+	padding-top: 40px;
+	padding-left: 45px;
+}
+.pic-3
+{
+	padding-top: 40px;
+	padding-left: 45px;
+
+}
+
+.tx-1
+{
+	padding-top: 75px;
+	padding-left: 20px;
+}
+.ka-op-2
+{
+	padding-top: 20px;
+	padding-left: 653px;
+	padding-bottom: 70px;
+}
+.ka-2
+{
+	background-color: #4985FF;
+	color: #FFFFFF;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	border-radius: 50px;
+	box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+	width: 180px;
+	height: 40px;
+}
+
+/*----------------------------------------------------------*/
+.blocks-1
+{
+	background: #F6F6F8;
+}
+.owt-1
+{
+	padding-top: 100px;
+	padding-left: 205px;
+}
+.st-1
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 53px;
+	color: #323232;
+}
+.st-2
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	color: #999999;
+}
+.ig-1
+{
+	padding-top: 70px;
+	padding-left: 70px;
+}
+.otp-1
+{
+	padding-top: 50px;
+	margin-left: 189px;
+	margin-right: 229px;
+	border-bottom: 2px solid #E0E0E0;
+}
+
+.hc-1
+{
+	/*позиция   */
+	padding: 0px;
+	margin: 0px;
+	padding-left: 15px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 53px;
+	color: #000000;
+}
+.hc-2
+{/*позиция   */
+	margin-bottom: 15px;
+/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	color: #999999;
+}
+.hcc-1
+{
+
+}
+.rd-1
+{
+	
+	padding-left: 18px;
+}
+.wvw-1
+{
+	padding-left: 380px;
+}
+.wvw-2
+{
+	padding-left: 50px;
+}
+.wvw-3
+{
+	padding-left: 50px;
+}
+.wvw-4
+{
+	padding-left: 50px;
+}
+.wvw-5
+{
+	padding-left: 50px;
+}
+.vwv
+{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+/*----------------------------------------------------------*/
+.blc-1 
+{
+	background: linear-gradient(90deg, #504DC2 20.44%, #5F12D0 80.91%), #C4C4C4;
+	height: 440px;
+}
+.sle-1
+{
+	/*позиция   */
+	padding-left: 210px;
+	padding-top: 60px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 53px;
+	color: #FFFFFF;
+}
+.ka-op-3
+{
+	padding-top: 80px;
+	padding-left: 405px;	
+}
+.ka-3
+{
+	background-color: #4985FF;
+	color: #FFFFFF;
+	box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	border-radius: 50px;
+	width: 180px;
+	height: 40px;
+}
+.sce-1
+{
+	padding-top: 35px;
+	padding-left: 210px;
+}
+.sce-2
+{
+	padding-top: 35px;
+	padding-left: 20px;
+}
+.sce-3
+{
+	padding-top: 35px;
+	padding-left: 20px;
+}
+/*- 2 часть блока */
+.sce-4
+{
+	padding-left: 210px;
+	padding-top: 100px;
+}
+.sce-5
+{
+	padding-left: 40px;
+	padding-top: 100px;
+}
+.sce-6
+{
+	padding-left: 40px;
+	padding-top: 100px;
+}
+.sle-3
+{
+	/*позиция   */
+	padding-left: 15px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 22px;
+	color: #4985FF;
+}
+.sle-4
+{
+	/*позиция   */
+	padding-left: 5px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 22px;
+	color: #000000;
+}
+.sle-5
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	color: #999999;
+}
+.sle-6
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	text-decoration-line: underline;
+	color: #4985FF;
+}
+.otp-2
+{
+	padding-top: 50px;
+	margin-left: 189px;
+	margin-right: 229px;
+	border-bottom: 2px solid #E0E0E0;
+}
+.ottp-1
+{
+	padding-top: 50px;
+}
+/*----------------------------------------------------------*/
+.blk-1
+{
+	background: #F6F6F8;
+}
+.tt-1
+{
+	/*позиция   */
+	padding-top: 60px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 53px;
+	text-align: center;
+	color: #000000;
+}
+.tt-2
+{
+	/*позиция   */
+	padding-top: 0px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	text-align: center;
+	color: #999999;
+}
+.pte-1
+{
+	padding-left: 220px;
+}
+.pte-2
+{
+	padding-left: 20px;
+}
+.pte-3
+{
+	padding-left: 20px;
+}
+.pte-4
+{
+	padding-left: 20px;
+}
+.ka-op-4
+{
+	padding-top: 50px;
+	padding-bottom: 80px;
+	padding-left: 653px;
+}
+.ka-4
+{
+	background-color: #4985FF;
+	color: #FFFFFF;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	border-radius: 50px;
+	width: 180px;
+	height: 40px;
+}
+/*----------------------------------------------------------*/
+.sn-1
+{
+	background-image: url(img/fonbox-1.jpg);
+	/*background-size: 1920px;*/
+	background-repeat: no-repeat;
+	margin: -1px;
+}
+.trt-1
+{
+	/*позиция   */
+	padding-top: 50px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 53px;
+	text-align: center;
+	color: #FFFFFF;
+}
+.trt-2
+{
+	/*позиция   */
+	padding-top: 10px;
+	padding-bottom: 390px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	text-align: center;
+	color: #FFFFFF;
+}
+/*
+.cr
+{
+	background-image: url(img/skyscrapers.png);
+	/*background-size: 430px;
+	background-repeat: no-repeat;
+}
+.cr-1
+{
+	display: flex;
+	justify-content: center;
+}
+.cr-2
+{
+	flex-direction: row;
+	justify-content: center;
+	border: 2px solid #FFFFFF;
+	border-radius: 50px;
+}
+.ase-1
+{
+	display: flex;
+
+}
+.ase-2
+{
+	display: flex;
+
+}
+.tet-1
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 25px;
+	color: #FFFFFF;
+}*/
+/*
+.t-op-1
+{
+	padding-left: 230px;
+	margin-top: -375px; 
+}
+.cr-2
+{
+	
+}
+.ase-1
+{
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	padding-top: 80px;
+	border: 2px solid #FFFFFF;
+	background-image: url(img/pley.png);
+	background-repeat: no-repeat;
+	border-radius: 50px;
+	width: 200px;
+	height: 70px;
+
+}
+.ase-2
+{
+}
+/*
+/*.cr-1
+{
+	display: flex;
+}
+.cr-2
+{
+	display:flex;
+	justify-content:center;
+	background-image: url(img/skyscrapers.png);
+	background-repeat: no-repeat;
+	border: 2px solid #FFFFFF;
+}*/
+
+/* почти работает*/
+
+.cr-1
+{
+	position: absolute;
+	/*border: 2px solid #FFFFFF;
+	background-repeat: no-repeat;
+	border-radius: 50px;
+	margin-left: 600px;
+	margin-bottom: 900px;
+	width: 200px;
+	height: 70px;*/
+
+}
+.cr-3
+{
+	padding-left: 250px;
+	margin-top: -380px;
+}
+.tet-1
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 25px;
+	color: #FFFFFF;
+}
+.otp-5
+{
+	padding-top: 60px;
+	margin-left: 189px;
+	margin-right: 229px;
+	border-bottom: 2px solid #E0E0E0;
+}
+.ottp-5
+{
+	padding-bottom: 60px;
+}
+/*----------------------------------------------------------*/
+.ort-1
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	color: #000000;
+}
+.ort-2
+{
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	text-align: center;
+	color: #999999;
+}
+.int-1
+{
+	width:  300px;
+	border: 1px solid #F2F2F2;
+	box-sizing: border-box;
+	box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+	 border-radius: 30px 0px 0px 30px;
+}
+.int-1:hover
+{
+	box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+}
+.int-2
+{
+	background: #4985FF;
+	box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+	border-radius: 0px 30px 30px 0px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	color: #FFFFFF;
+}
+.rrot-1
+{
+	padding-left: 510px;
+}
+.ort-3
+{
+	/*позиция   */
+	padding-bottom: 60px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	line-height: 21px;
+	text-align: center;
+	color: #999999;	
+}
+/*----------------------------------------------------------*/
+.bk-1
+{
+	background: #F6F6F8;
+}
+.a-bk-1
+{
+	/*позиция   */
+	padding-top: 50px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 22px;
+
+	color: #000000;
+}
+.a-bk-2
+{
+	/*позиция   */
+	padding-left: 15px;
+	/* стили    */
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 22px;
+	color: #999999;
+}
+.b-bk-1
+{
+	padding-top: 20px;
+	padding-left: 15px;
+}
+.tpt-1
+{
+	padding-left: 300px;
+}
+.tpt-2
+{
+	padding-left: 50px;
+}
+.tpt-3
+{
+	padding-left: 50px;
+}
+.tpt-4
+{
+	padding-left: 50px;
+}
+.otp-4
+{
+	padding-top: 30px;
+	margin-left: 189px;
+	margin-right: 229px;
+	border-bottom: 2px solid #E0E0E0;
+}
+.ort-4
+{
+/*позиция   */
+padding-top: 20px;
+/* стили    */
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 21px;
+text-align: center;
+color: #999999;
+}
